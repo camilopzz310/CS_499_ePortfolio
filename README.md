@@ -28,10 +28,13 @@ My skills in collaborating in a team environment, communicating with stakeholder
 ### Instructions to Compile Enhanced Artifact Code
 **Source Code**:
 - Event Tracking - Artifact 1 - Camila Lopez.ipynb
+
 **Software**:
 - Jupyter Notebook (Anaconda 3)
+
 **Dependencies**:
 - None
+
 **Instructions**:
 1. Open Jupyter Notebook (Anaconda 3)
 2. Upload file to Jupyter Notebook (Event Tracking - Artifact 1 - Camila Lopez.ipynb)
@@ -72,10 +75,13 @@ I learned a few things upon creating and improving the artifact chose. I used an
 ### Instructions to Compile Enhanced Artifact Code
 **Source Code**:
 - ProjectTwo.sln
+  
 **Software**:
 - Visual Studio
+  
 **Dependencies**:
-- ABCU_Advising_Program_Input.txt 
+- ABCU_Advising_Program_Input.txt
+  
 **Instructions**:
 1. Extract the files from the zip
 2. Open Visual Studio
@@ -86,7 +92,7 @@ I learned a few things upon creating and improving the artifact chose. I used an
 ### Enhanced Artifact Instructions to Use
 1.Once the code is compiled a menu is shown and asks what you would like to do and there are several functionalities to choose from in the menu:
 - Option “1” loads the data structure. If you enter “1”, it will ask you to enter a file name that ends with “.txt”. In order to correctly use the program, you must input “ABCU_Advising_Program_Input.txt”.
-- - If another file name is entered it will say failed to open. 
+  - If another file name is entered it will say failed to open. 
 - Option “2” prints the course list. If you enter “2”, it will print out to the user a list of all the courses in alphanumerical order.
 - Option “3” prints a course. If you enter “3”, it will ask you for the course number. The course number consists of the subject abbreviation and the number. For example you can enter “CSCI301” and it will output the course Advanced Programming in C++ and print out the prerequisites.
 - Option “9” lets you exit the program by just entering “9”. 
@@ -113,19 +119,39 @@ The artifact I selected for Algorithms and Data Structures is a program that pri
 
 ### Instructions to Compile Enhanced Artifact Code
 **Source Code**:
-- ProjectTwo.sln
+- Lopez_Camila_CS499_Artifact3.ipynb
+  
 **Software**:
-- Visual Studio
+- Jupyter Notebook (Anaconda 3)
+  
 **Dependencies**:
-- ABCU_Advising_Program_Input.txt 
+- Lopez_Camila_CS499_Artifact3.ipynb
+- Aac_shelter_outcomes.csv
+- CRUDquery.py
+- Grazioso Salvare Logo.png
+
 **Instructions**:
+1. Extract the files from the zip
+2. Open Jupyter Notebook (Anaconda 3)
+3. Upload files to Jupyter Notebook in one place/folder (Artifact3.ipynb, aac_shelter_outcomes.csv, CRUDquery.py, and Grazioso Salvare Logo.png)
+4. Open Artifact3.ipynb
+5. Under the tab Cell select Run All
+6. If you scroll all the way down it should say “Dash app running on ……”. Click on the link if you want to view it on a separate window tab
 
-  ### Enhanced Artifact Instructions to Use
-
+### Enhanced Artifact Instructions to Use
+1. Once the code is compiled there are several functionalities in the code.
+- The dashboard should automatically be on the Reset radio button.
+2. Under Filter by Animal Type you can select one or more of your choice or leave it blank
+- The data table, graph, and map should be modified based on the filters.
+3. Under Filter by Breed you can select one or more of your choice or leave it blank
+- The data table, graph, and map should be modified based on the filters.
+4. Under Search by Name one can enter a name to search for a specific animal or leave it blank
+- The data table, graph, and map should be modified based on the filters.
+5. Under Filter by Age one can select the age range that they are looking for or leave it blank
+- The data table, graph, and map should be modified based on the filters.
 
 ### Narrative
 The artifact I selected for Algorithms and Data Structures is a client/server application in which the client-side code interfaces with databases. This artifact originates from my work in CS 340: Client/Server Development. Grazioso Salvare is seeking a software application that can work with existing data from animal shelters to identify and categorize available dogs. Global Rain has contracted for a full stack development of this application, including a database and a client-facing web application dashboard through which users at Grazioso Salvare will access the database. A database and a Python module enabling CRUD functionality for MongoDB, the dashboard and the database interface logic has been developed. This will include dashboard attributes. The dashboard must be a user-friendly, intuitive interface that will reduce user errors and training time. I selected this artifact to investigate how I can improve on data mining. Data mining is going through large sets of data such as the animal shelters to find relevant information that can be used for a specific purpose which is suited animals to serve in rescue. Specific components that showcases my data mining skills is modeling to categorize the animal data in a chart to have a visual representation and enhancing the original code by adding more filters on the dashboard. The enhancement that will be done on this artifact is incorporating data mining. To incorporate data mining, first I will examine the current code and find ways to improve it. A technique to add is data clustering. This will group certain animals based on their type, breed, etc. The dashboard can then be enhanced to make it more interactive and filter data based on the options chosen. Adding additional filtering options apart from the type of rescue can be more helpful as well. Such as specifically finding a specific breed of dog to do water rescue. Or maybe even adding a search bar to look for a specific name. This will make the selection even easier and more efficient. With this enhancement I believe I did meet the course objectives of: Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts; Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices; and Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.  Some updates to my outcome coverage plan is fixing the rest of the radio buttons. Originally the program functions didn’ work and just displayed all the animals, but now more filter options are available. I learned a lot in enhancing and modifying the product in terms of features I can use to enhance a user interface. I did have many challenges I had to overcome. The main one being I did not have the linux shell installed in order to access the MongoDB from my original code so I had to improvise and just have the code directly access the csv file of the list of animals from the animal shelters. I also had trouble having the radio buttons work to update the dashboard according to the selection.
-
 
 **Enhancements**:
 - **Data Mining**: Incorporate Data Mining through the use of filters and charts. 
