@@ -42,7 +42,7 @@ My skills in collaborating in a team environment, communicating with stakeholder
 4. Under the tab Cell select Run All
 5. If you scroll all the way down it should show a window of the program or you can select the link “Click here to open the Dash app” if you want to view it on a separate window tab
 
-### Enhanced Artifact Instructions to Use
+**Enhanced Artifact Instructions to Use**:
 1. Once the code is compiled the first page is the login/register page and it’ll ask for a username and password. If an account is already created with the username then it will say that the username does not match the password. 
 - Once registered/logged in it leads the user to the Event Tracker page. The top function allows the user to add an event by inserting the event details then selecting the Add Event button.
 - Below shows the Upcoming Events table. 
@@ -89,7 +89,7 @@ I learned a few things upon creating and improving the artifact chose. I used an
 4. Once opened, it should have the file ABCU_Advising_Program_Input.txt already.
 5. Select the Play button known as Local Windows Debugger to compile the code.
   
-### Enhanced Artifact Instructions to Use
+**Enhanced Artifact Instructions to Use**:
 1.Once the code is compiled a menu is shown and asks what you would like to do and there are several functionalities to choose from in the menu:
 - Option “1” loads the data structure. If you enter “1”, it will ask you to enter a file name that ends with “.txt”. In order to correctly use the program, you must input “ABCU_Advising_Program_Input.txt”.
   - If another file name is entered it will say failed to open. 
@@ -138,7 +138,7 @@ The artifact I selected for Algorithms and Data Structures is a program that pri
 5. Under the tab Cell select Run All
 6. If you scroll all the way down it should say “Dash app running on ……”. Click on the link if you want to view it on a separate window tab
 
-### Enhanced Artifact Instructions to Use
+**Enhanced Artifact Instructions to Use**:
 1. Once the code is compiled there are several functionalities in the code.
 - The dashboard should automatically be on the Reset radio button.
 2. Under Filter by Animal Type you can select one or more of your choice or leave it blank
