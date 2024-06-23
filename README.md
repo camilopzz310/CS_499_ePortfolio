@@ -16,7 +16,7 @@ My skills in collaborating in a team environment, communicating with stakeholder
 
 - **[Watch the Code Review on YouTube](https://www.youtube.com/playlist?list=PLiDUqX3zzGm1d8ndOwTyjCZnUAJRxC307)**
 
-
+# Artifacts
 ## Artifact 1 - Software Engineering and Design - Event Tracking App
 
 ### Original Artifact
