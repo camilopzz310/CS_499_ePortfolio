@@ -1,6 +1,7 @@
 # CS_499_ePortfolio
 
 Camila Lopez
+
 camila.lopez@snhu.edu | Los Angeles, CA
 
 To whom it may concern,
