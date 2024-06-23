@@ -44,10 +44,10 @@ My skills in collaborating in a team environment, communicating with stakeholder
 
 **Enhanced Artifact Instructions to Use**:
 1. Once the code is compiled the first page is the login/register page and it’ll ask for a username and password. If an account is already created with the username then it will say that the username does not match the password. 
-- Once registered/logged in it leads the user to the Event Tracker page. The top function allows the user to add an event by inserting the event details then selecting the Add Event button.
-- Below shows the Upcoming Events table. 
-- If you select the “X” on the left side of a specific event it will delete the event. 
-- If you wish to edit an event you click once on the box you want to edit and change the description.
+  - Once registered/logged in it leads the user to the Event Tracker page. The top function allows the user to add an event by inserting the event details then selecting the Add Event button.
+  - Below shows the Upcoming Events table. 
+  - If you select the “X” on the left side of a specific event it will delete the event. 
+  - If you wish to edit an event you click once on the box you want to edit and change the description.
 
 ### Narrative
 The artifact I chose is an event planning application created for my CS 360: Mobile Architecture and Technologies that I took last term. The purpose of the application is to track the dates and times of upcoming events. The application was designed and coded using Android studio. The requirements include: a database with at least two tables, one to store the event details and one to store user logins and passwords, a screen for logging into the app it should also be used to create a login if the user has never logged in before, a screen, with a grid, that displays all upcoming events, a mechanism by which the user can add and remove events from the database, a mechanism by which the user can enter the time and general information of a specific event, and a mechanism by which the application will notify the user on the day that an event has been scheduled. This app is meant to address users' needs in terms of having an application to remind them when there is an upcoming event. I selected this item because it was done on a different operating system than what I have used and it considered the design and operation of the application. The specific component that showcase my abilities in software development is the layout of the application and the database design. The enhancement chosen for this artifact is reverse engineering a piece of software for a different operating system which was a Windows Operating System. I have met most of the course objectives from my plan of enhancement in Module One but I would say I can improve on the security a bit more in terms of input validation. So far I don’t have any updates to my outcome-coverage plan. 
