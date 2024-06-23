@@ -74,7 +74,7 @@ I learned a few things upon creating and improving the artifact chose. I used an
 
 ### Instructions to Compile Enhanced Artifact Code
 **Source Code**:
-- ProjectTwo.sln
+- ProjectTwo.cpp
   
 **Software**:
 - Visual Studio
