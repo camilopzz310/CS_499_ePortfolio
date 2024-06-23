@@ -126,7 +126,6 @@ The artifact I selected for Algorithms and Data Structures is a program that pri
 - Jupyter Notebook (Anaconda 3)
   
 **Dependencies**:
-- Lopez_Camila_CS499_Artifact3.ipynb
 - Aac_shelter_outcomes.csv
 - CRUDquery.py
 - Grazioso Salvare Logo.png
